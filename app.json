@@ -8,8 +8,8 @@
     "crossboarding",
     "productivity"
   ],
-  "website": "http://github.com/heroku/starboard",
-  "repository": "http://github.com/heroku/starboard",
+  "website": "http://github.com/mbuckbee/starboard",
+  "repository": "http://github.com/mbuckbee/starboard",
   "logo": "https://cloud.githubusercontent.com/assets/483012/3819730/31b19ffa-1cee-11e4-9a27-8b5e62ebf7f2.png",
   "success_url": "/setup",
   "scripts": {},
